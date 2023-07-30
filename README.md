@@ -1,6 +1,24 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+# Dashbaord-Tutorial-using-React-and-Ant-Design
+Website to see the updated :- https://agumentik-backend-9egy.vercel.app/
+
+# AdminDBv1
+
+
+# Other Repositories link
+
+Front End: https://github.com/vishal470/Agumentik_frontend.git
+
+Back End: https://github.com/vishal470/Agumentik_backend.git
+
+
+# Process
+1. Change any thing from the side menu
+2. Check the changes on the UI from the website link given.
 
 ## Available Scripts
 
